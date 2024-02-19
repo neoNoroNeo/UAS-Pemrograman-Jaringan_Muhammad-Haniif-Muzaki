@@ -1,2 +1,2 @@
-# UAS Pemrograman Jaringan_Muhammad Haniif Muzaki
- UAS Pemrograman Jaringan dengan meng-consume API dari situs kampus
+# Rest_api_UAS_PemogramanJaringan
+ Berikut UAS mengakses Rest API dikerjakan oleh Muhammad Haniif Muzaki dengan NIM 362001007. Mungkin kedepannya bakal ada penambahan UI kecil-kecilan.
